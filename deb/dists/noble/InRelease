@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: noble
+Codename: noble
+Architectures: arm64 amd64
+Components: main
+Description: LizardByte Apt Repo
+Date: Thu, 11 Apr 2024 23:27:21 +0000
+MD5Sum:
+ 1b0a71cad3da320a2f66b4c084d856ac 1103 main/binary-amd64/Packages
+ 809cd33e5d5ca79961ea74f1ac5199d1 524 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 main/binary-arm64/Packages.gz
+SHA1:
+ 1af5b026a0aa81367a7ee0d1217a6abb386e0c09 1103 main/binary-amd64/Packages
+ b647204e800cefcdaf8d4712cbff22d4773c0218 524 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 main/binary-arm64/Packages.gz
+SHA256:
+ b4bcc4943063fe7aef2e5e1d605a1b9f581c6792f27c9cf3805b3b831d0e466e 1103 main/binary-amd64/Packages
+ 3a6e8c877cb3fd0982e4ac652fd67511b128e0faeb07311429c78f99af44c557 524 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEG5IMiaQoN4AWSuJnc6Ze3+bJGaUFAmYYcdoYHGRvZmZpY2lh
+bGdtYW5AZ21haWwuY29tAAoJEHOmXt/myRmlA3kP+wT29JVRY0nKVfyr+EEdVjJX
+VmFgNUUWSf/Sl6g5onMaTa1L6inuShHd7iByjY+hQQEnfRTF6a58SAKEtONM0Y9h
+3CGsm6B2S+FV9P/3rzO3a/lE/1gffkjr+rRfdNRo4mxEygQHDwQrnU5k5n+roq9P
+MM0daXaKdUHO+vl8ebqLPxS+DT3kUgyUHQ609Myxi5Ge90aaWiZ0RtrFUbSMrHrs
+3/DOL3AcNESjQqthiihhY+pk5m32zCLCOy1NjNbJVByFR1TdSuocQNCRqmvupmtn
+SG8DUOah8LiY2IlI+jzCrfNBMB2pKLVJAEK1VmnEED+ZfWQ2aKRw4hCnX6Y2Xb1L
+d0nLCL3PtUTtJN4fOowLKM8UfdWNCqA4vhrDqEsR+iquKkXh4TSO+nzyKuffIbUA
+rgY/+g7xLhlsTBNpc3+GGLILM0GNTIN8udp0/jOvliHcTsQu+2bx6YJ81iAe7w8e
+KDjgfWJDMc2pMsxuypAw5E74z+gx2GrTRKno1hdHA6ceGN8XdRGM3pakOgf/jAx7
+OFxPgbDYgt/qIrfKICfrB1r+xcyIlMUD5zFQ6q2DGLVQi/aBDoKR5TxMz7RTdRvq
+zMm82Jb9VPLtIW3WGZjTYkjFl0nqVZmuxrt3xWfDni8mGXoGpXa3F6slwxBvgKK0
+ox3S+Km+pZF7h91IH7Pz
+=AxGV
+-----END PGP SIGNATURE-----

@@ -1,0 +1,17 @@
+Package: sunshine
+Version: 0.23.0
+Architecture: arm64
+Maintainer: https://app.lizardbyte.dev
+Installed-Size: 25698
+Depends: libboost-filesystem1.74.0,             libboost-locale1.74.0,             libboost-log1.74.0,             libboost-program-options1.74.0,             libcap2,             libcurl4,             libdrm2,             libevdev2,             libnuma1,             libopus0,             libpulse0,             libva2,             libva-drm2,             libvdpau1,             libwayland-client0,             libx11-6,             miniupnpc,             openssl | libssl3,                     libayatana-appindicator3-1,                     libnotify4
+Filename: pool/bullseye/sunshine/sunshine_0.23.0_arm64.deb
+Size: 6621880
+MD5sum: e7b3c2e874294b102e52922fbe831762
+SHA1: 5040b4ad046a630d7c6e5b3440cc1ec2a37d3997
+SHA256: 33ce2ca0728b37f1901461acf4b0c6e37252e4ec7781f5e7cfa9285adcded622
+Section: devel
+Priority: optional
+Homepage: https://app.lizardbyte.dev/Sunshine
+Description: Self-hosted game stream host for Moonlight
+ Self-hosted game stream host for Moonlight
+

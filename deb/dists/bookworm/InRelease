@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: bookworm
+Codename: bookworm
+Architectures: arm64 amd64
+Components: main
+Description: LizardByte Apt Repo
+Date: Thu, 11 Apr 2024 23:27:20 +0000
+MD5Sum:
+ 811aadb7256d4089c19b35bc2cf6a7e1 1106 main/binary-amd64/Packages
+ 7572fab15033cf4aa1d3e11b0be90697 530 main/binary-amd64/Packages.gz
+ 3b11c46d8054e96b0d9cb2c32b27b1d9 1085 main/binary-arm64/Packages
+ 9dbb26ec667570154f53eb397dcfb9be 522 main/binary-arm64/Packages.gz
+SHA1:
+ 61f4fc59310232331e6fc720a127be35ace9b76b 1106 main/binary-amd64/Packages
+ 70b11d94a4a442e26ae873d1bffc3aae0938d7ba 530 main/binary-amd64/Packages.gz
+ 56b706c872a15db2401891280a999f3a3e5687e0 1085 main/binary-arm64/Packages
+ ed1f14460ad4cbb19f4804703f723d213f3fb177 522 main/binary-arm64/Packages.gz
+SHA256:
+ 0baaaf33bcc680000f9efd5ed2c72b4050d246f7026bffc3bd420c3bbf2d424e 1106 main/binary-amd64/Packages
+ 3edff6d0fc17e9ed93bd85e9bf27d44254f3455f7086f641cc5c3d112c74366f 530 main/binary-amd64/Packages.gz
+ 2498e7dc9df2932093e640f98833f71c89f9cd904856d8203a9911b092a2b364 1085 main/binary-arm64/Packages
+ ea3d2b8feae09197e80e86a8c595464a36caf2a5c9df68335df03849cce0b256 522 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEG5IMiaQoN4AWSuJnc6Ze3+bJGaUFAmYYcdgYHGRvZmZpY2lh
+bGdtYW5AZ21haWwuY29tAAoJEHOmXt/myRmlY0sQAIt6taq81Bs8N/tXjSzEC3f9
+pJ0ir4DeS3+yRmL6DZVtI5D9TH2gnmiFLXpC0yP6aVtJrW6HLksXjHh5zmcI8woc
+mAJq/qkx9CHi1S3SmQn59a3ZxzrdjHdQUOTlwUwrMUyKq0bO4N4gZjNKxwXxCJjX
+2FUCYZHaWnRr9i9zrPdK58Ff6bJ6M7Qyzt8U989WLivCNDya0/66dHyebVFS4rBv
+Ve8yXlXY7EcHPpjKChxyNKKPsiI+qqXaS03tHnmsAJIo/sr/q8MD/nEe95cpi6Mz
+VeE3MqeHz+Ou4Iekp3DUTSdrbFSwwbwQSLKXLFtZ5Volu9VWQvrVAc/muEOXIP6h
+M8ziqu9dhpseIxE/EJ3RQVGrflpPsteJdwlYg/GT59p8jt46X6pHS8YfgUSPnral
+wykJcOM0lYXxGtIfIfoIXvrW/93oOJqfCdQl45PGL5p7UmVNYzQvrejAF7Om/Bws
+Z8t4XFE+dhIiYT7k/lu5wCYVnTG1l42KZigYwT1SJ7U+XlvkrhxKl5ZEGYAVjpcP
+Xh7bXC2356hkuEw6ejAIUPvuH9fcmcGKMMKufjp6qakKFFC7omx5aqzJTgj7mcpH
+XGrWGZfRdzJQHUHln845Sdow8oLdJftSxR92OYVlYAgAwZHWJW9Ui7bXAANDWB//
+iwA5Tn78Q6364auVVJph
+=ivhF
+-----END PGP SIGNATURE-----

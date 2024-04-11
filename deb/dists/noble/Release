@@ -1,0 +1,21 @@
+Suite: noble
+Codename: noble
+Architectures: arm64 amd64
+Components: main
+Description: LizardByte Apt Repo
+Date: Thu, 11 Apr 2024 23:27:21 +0000
+MD5Sum:
+ 1b0a71cad3da320a2f66b4c084d856ac 1103 main/binary-amd64/Packages
+ 809cd33e5d5ca79961ea74f1ac5199d1 524 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 4a4dd3598707603b3f76a2378a4504aa 20 main/binary-arm64/Packages.gz
+SHA1:
+ 1af5b026a0aa81367a7ee0d1217a6abb386e0c09 1103 main/binary-amd64/Packages
+ b647204e800cefcdaf8d4712cbff22d4773c0218 524 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 main/binary-arm64/Packages.gz
+SHA256:
+ b4bcc4943063fe7aef2e5e1d605a1b9f581c6792f27c9cf3805b3b831d0e466e 1103 main/binary-amd64/Packages
+ 3a6e8c877cb3fd0982e4ac652fd67511b128e0faeb07311429c78f99af44c557 524 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 main/binary-arm64/Packages.gz

@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: bullseye
+Codename: bullseye
+Architectures: arm64 amd64
+Components: main
+Description: LizardByte Apt Repo
+Date: Thu, 11 Apr 2024 23:27:21 +0000
+MD5Sum:
+ 20a4bbafb477a10f3749f5cfb51f7bbc 1106 main/binary-amd64/Packages
+ 25ef9c671ff6a7ddb43bfb6d83fb4a50 527 main/binary-amd64/Packages.gz
+ 2628fde6e81613bfc66483b8ab79b5bf 1085 main/binary-arm64/Packages
+ 60723a5f09042d57c347bb29b27360c7 522 main/binary-arm64/Packages.gz
+SHA1:
+ 2bf49b2984ca1d39a240ee8cc142e69b2b21e8da 1106 main/binary-amd64/Packages
+ 68279ecc7074cd71c98dd5248d47142c8d7550ec 527 main/binary-amd64/Packages.gz
+ 34d4e1b6718ba70f03fd6e3b65f27f4e5f96751a 1085 main/binary-arm64/Packages
+ b5f7dc014db12fce1328a4e139c260e7bde61733 522 main/binary-arm64/Packages.gz
+SHA256:
+ ec3fbfae166a1e1d12919051fdf4b28deeeedb54e082faca0d38bf3f7b36590c 1106 main/binary-amd64/Packages
+ 4c4664944dbfe0ba69f3fdc0d487414e9956095175023d89cd44cd9dcef6845a 527 main/binary-amd64/Packages.gz
+ 65cd18773b3f923b7974e9d63def074749929abf937abd66412539e59f6f411c 1085 main/binary-arm64/Packages
+ 0312a2fa24a4f0871951a5347943603fafd06baa6e995b0a1a22bb3a94c246cc 522 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEG5IMiaQoN4AWSuJnc6Ze3+bJGaUFAmYYcdkYHGRvZmZpY2lh
+bGdtYW5AZ21haWwuY29tAAoJEHOmXt/myRmlsRQP/RLgoY2So0xRJYPyyOqC2GT+
+Zy+S2M49swU/UOmJX1rg626ajlcs/IWPpUvsK8XxGRZ/kEAl5H4oZF9mFRvcQFR4
+Ip8e5lxPWKlsZ4KWEWd9ob8Jy87XNLDkj/zJJcLgEh6N2YUzXrr07CsDHmUbzN9v
+MppNs3qvIs0uXCdEkhsGRKVFy3G18yBjB1pFa2EOUoRdD/KQhHzfWpgaDgzhHZsk
+H0LhAPoU+eNtrp4Vi3Aq0I7aE5TFxn5h3g7m9bw68f7A2PaM59+uPgqLrhIAw3Ws
+WK3MkLSd6xuLRkraVHSUCKJP1C3bnxfSjs1/EU/6TI+aJSEAEKu1pzLaTyMl7uLm
+ssE1V2uKVUn0gm4ZNzWjuvmjqqb2Iay133oZuXJVq+eVJ8yA/fejXVQK23VqSB62
+Ypx1m32wWT02Uu9CrrdAxo9tWQ8AKvLdCsJuhZ2iQjx8jxmaYQ02uqKCIMJIJR6i
+4pTjervR6eLb1YBETdZd/9vbDpRqKDJeBQYpn0Teyb9fPY4OELFGq0lP7NGVpaMf
+Wimo+pzJO12iFBCP0ubi35sSQnNYQ8Jlwt+gvcu5VyyI4fRSvmqWFAhMa4361/I+
+ODI84QzaJ2q7s/9VkWwnNRxUUAKGLj5LZS9mnyWhk3udNGDYLDDSBS5kIavQLeZu
+CYg+cRZFLvqhdmORaLQB
+=2hlb
+-----END PGP SIGNATURE-----

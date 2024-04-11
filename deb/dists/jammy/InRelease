@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: jammy
+Codename: jammy
+Architectures: arm64 amd64
+Components: main
+Description: LizardByte Apt Repo
+Date: Thu, 11 Apr 2024 23:27:21 +0000
+MD5Sum:
+ bbd88e4c6f49b741fc46545431c5de90 1103 main/binary-amd64/Packages
+ 5fb2f61990cedb95de9d1d47f089e67c 526 main/binary-amd64/Packages.gz
+ 2ecbeb5245a4b6fa6f8b91dd0fd89038 1082 main/binary-arm64/Packages
+ 18962f5bdc458a3853def07299f3a342 521 main/binary-arm64/Packages.gz
+SHA1:
+ d36ef326c03574a8ede7c2613c38f2c34df47965 1103 main/binary-amd64/Packages
+ 5add3b03f01911ea6782ce6beeca2d77cfe208b4 526 main/binary-amd64/Packages.gz
+ 3a67a634090004d9647c87c7162e04bf90ae7ae8 1082 main/binary-arm64/Packages
+ 5cde5203657a7b2d56dc3205378949dea2082335 521 main/binary-arm64/Packages.gz
+SHA256:
+ 44ecbe8150f3319ebfb9d18f63506528569ed6e330fa02c5b0a187cfecd4fef1 1103 main/binary-amd64/Packages
+ df4ef961e3de3de6beb812351984aa83d7f0715d60ff528f24979bb39b1e4a04 526 main/binary-amd64/Packages.gz
+ f11d7f6c1c78badffced9aeefbc37919a00e1d918f41bbef9dc57afbd964398c 1082 main/binary-arm64/Packages
+ 6bc180ec208703a9e600151b7b8f9ed80dc018939544754f80adfd3c98804192 521 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEG5IMiaQoN4AWSuJnc6Ze3+bJGaUFAmYYcdkYHGRvZmZpY2lh
+bGdtYW5AZ21haWwuY29tAAoJEHOmXt/myRmlW1EQAJKQaSLWc5Dlo53399BkEPtj
+pPPhkF7cSHfMd5/OJfjioZBv4SiXuUZVEPo1wXh3i4BkTfGWoS8qN2GqlqXuy6pj
+O5f5If7mC8ei+totPWYC9jRtG3DKLO/l+82WYLAZNtsdtC4JEL4MbM8gX49ywbuj
+W4SQyHTbbu812l3GFD8T2qu0tNc9zLhsiBkXbFejUx7plBnSBoB3biUmshS+bz0+
+oxkzCWMvPm1IiQWECxP5jvMinWSjN2VmugAtJlJlzxz9UEabikVNj3kzs/C7x9kk
+LGn86vqfbKza3N7yPtC2XbcYempBw1MdDaRs64Q/rQNOLHt2MP5DKUEn6w3/Uqay
+brab2dcfF0HvF2ue5ooQXpQj1CecRcWnTjViOZ6OlwkrgAg6z+snX7RulZ0BVSaX
+8T5+OIV4zVlbbxxZq22ahSUc4wcRFHRhp2hScj/YPDk83dqp5wz3mlWzAJeBYvZE
+bwdnfQ3VWsHywgZkjouJjvimNvZpgpkVtUwdp0YtHfRBsHx1bTCrVBOySn+XlIs8
+pLnhA+JIb6Xr3ZL4BUuHhovkqemL6/SljTNT9r8YOb3PsIMSFX2hQizH0CSguyL6
+/ECCa2xd6Jn5Hr+dtt16kqe2JXMQNRxPyqnh5gpkdL5Fkjt6RbyNnrXGnrIqIYAn
+pf997cwh+npFWQzY2MYD
+=EZC0
+-----END PGP SIGNATURE-----
