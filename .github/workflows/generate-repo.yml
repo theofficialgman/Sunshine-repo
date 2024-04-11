@@ -47,9 +47,6 @@ jobs:
 
             # A flag to set if the downloaded assets are archives and should be extracted
             extract: false
-
-      - name: List GPG keys
-        run: gpg -K
             
       - name: Build and Package
         run: |
