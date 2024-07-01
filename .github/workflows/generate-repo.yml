@@ -27,7 +27,7 @@ jobs:
           sudo apt install createrepo-c
 
       - name: Download debs from latest release
-        uses: robinraju/release-downloader@v1.10
+        uses: robinraju/release-downloader@v1.11
         with: 
             # The source repository path.
             repository: "LizardByte/Sunshine"
@@ -128,7 +128,7 @@ jobs:
           rm -rf $DIRECTORY/release_downloads
 
       - name: Download rpms from latest release
-        uses: robinraju/release-downloader@v1.10
+        uses: robinraju/release-downloader@v1.11
         with: 
             # The source repository path.
             repository: "LizardByte/Sunshine"
